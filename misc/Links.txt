@@ -1,0 +1,3 @@
+https://app.powerbi.com/view?r=eyJrIjoiMGFiYzQ4MDgtNjc3MC00N2I0LTkwNDgtYzU1NDhkNmFlNzY3IiwidCI6ImFiOGFiMGMyLTQ4ZTYtNDQ4Yy04YWJkLTk1MWViYzgxYjk0NCJ9
+
+<iframe title="PROJETO PAINEL COMERCIAL" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGFiYzQ4MDgtNjc3MC00N2I0LTkwNDgtYzU1NDhkNmFlNzY3IiwidCI6ImFiOGFiMGMyLTQ4ZTYtNDQ4Yy04YWJkLTk1MWViYzgxYjk0NCJ9" frameborder="0" allowFullScreen="true"></iframe>
