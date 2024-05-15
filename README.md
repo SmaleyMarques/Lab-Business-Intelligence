@@ -10,8 +10,10 @@ Todo o projeto, incluindo modelagem, códigos e scripts, está disponível no re
 
 ## **Descrição do Processo**
 
-***
+...
 
 ## **Sobre os Dados Armazenados**
 Os dados são fictícios, criados manualmente e com revisões e ajustes para a consistência de dados.
 
+## **Mapa Geral**
+![Mapa Geral](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/ProjetoBI_mindmap.png)
