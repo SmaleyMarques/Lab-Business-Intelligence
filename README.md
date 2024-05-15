@@ -1,0 +1,2 @@
+# Lab-Business-Intelligence
+ Projeto de Laboratório de BI desenvolvido utilizando o Microsoft SQL Server como base de dados afim  de implementar um data warehouse para a consolidação dos dados que surge a partir da necessidade de gerar analise de performance de vendas neste caso fictício, através da automação de um processo de ETL com a ferramenta Talend, deixando os dados , disponíveis para serem consumidos no Power BI.
