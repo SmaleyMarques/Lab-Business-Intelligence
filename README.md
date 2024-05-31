@@ -16,3 +16,18 @@ Os dados são fictícios, criados manualmente e com revisões e ajustes para a c
 
 ## **Mapa Geral do Projeto**
 ![Mapa Geral](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/ProjetoBI_mindmap.png)
+
+## **Processo de Staging*
+![staging](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/Staging.png)
+
+## **Carga das Tabelas Dimensão*
+![Dimensões](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/Dimens%C3%B5es.png)
+
+## **Carga das Tabelas Fato*
+![Fatos](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/Fatos.png)
+
+## **Fluxo das Jobs*
+
+## ***Jobs Staging***
+![JOBS_STAGING](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/JOBs_STAGING.png)
+
