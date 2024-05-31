@@ -23,11 +23,23 @@ Os dados são fictícios, criados manualmente e com revisões e ajustes para a c
 ## **Carga das Tabelas Dimensão**
 ![Dimensões](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/Dimens%C3%B5es.png)
 
-## **Carga das Tabelas Fato*
+## **Carga das Tabelas Fato**
 ![Fatos](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/Fatos.png)
 
-## **Fluxo das Jobs*
+## **Trucante Staging**
+![Truncates](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/Truncates.png)
+
+## **Fluxo das Jobs**
 
 ### **Jobs Staging**
 ![JOBS_STAGING](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/JOBs_STAGING.png)
 
+### **Jobs de Carga das Tabelas Dimensão**
+![JOBs_DIM](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/JOBs_DIM.png)
+
+### **Jobs de Carga das Tabelas Fato**
+![JOBs_FATO](https://github.com/SmaleyMarques/Lab-Business-Intelligence/
+blob/main/misc/JOBs_FATO.png)
+
+### **Jobs de Organização Geral**
+![JOB_GERAL](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/JOB_GERAL.png)
