@@ -47,3 +47,19 @@ O fluxo das jobs segue a ordem hierárquica das tabelas, respeitando as dependê
 
 ## **Modelagem dos dados no PowerBI**
 ![modelagem](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/modelagem.png)
+
+## **Design no Figma**
+Para melhorar a visualização e a estilização dos dashboards, foi desenvolvido um design de apoio no Figma, utilizando uma paleta de cores e elementos que se alinham com a identidade visual da loja (caso exista).
+
+### **Aba Principal**
+![BG - Painel Comercial](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/BG%20-%20Painel%20Comercial.png)
+
+### **Aba de Análise**
+![BG - Análise de Tendência](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/BG%20-%20An%C3%A1lise%20de%20Tend%C3%AAncia.png)
+
+## **PowerBI**
+Por fim, foram realizadas algumas análises utilizando o Power BI como ferramenta de visualização para criação do dashboard.
+
+<iframe title="PROJETO PAINEL COMERCIAL" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGFiYzQ4MDgtNjc3MC00N2I0LTkwNDgtYzU1NDhkNmFlNzY3IiwidCI6ImFiOGFiMGMyLTQ4ZTYtNDQ4Yy04YWJkLTk1MWViYzgxYjk0NCJ9" frameborder="0" allowFullScreen="true"></iframe>
+
+
