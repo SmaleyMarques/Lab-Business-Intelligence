@@ -30,6 +30,7 @@ Os dados são fictícios, criados manualmente e com revisões e ajustes para a c
 ![Truncates](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/Truncates.png)
 
 ## **Fluxo das Jobs**
+O fluxo das jobs segue a ordem hierárquica das tabelas, respeitando as dependências entre elas e a criação de chaves surrogate.
 
 ### **Jobs Staging**
 ![JOBS_STAGING](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/JOBs_STAGING.png)
@@ -42,8 +43,6 @@ Os dados são fictícios, criados manualmente e com revisões e ajustes para a c
 
 ### **Jobs de Organização Geral**
 ![JOB_GERAL](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/JOB_GERAL.png)
-
-O fluxo das jobs segue a ordem hierárquica das tabelas, respeitando as dependências entre elas e a criação de chaves surrogate.
 
 ## **Modelagem dos dados no PowerBI**
 ![modelagem](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/modelagem.png)
