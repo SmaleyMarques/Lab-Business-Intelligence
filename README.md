@@ -58,8 +58,9 @@ Para melhorar a visualização e a estilização dos dashboards, foi desenvolvid
 ![BG - Análise de Tendência](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/BG%20-%20An%C3%A1lise%20de%20Tend%C3%AAncia.png)
 
 ## **PowerBI**
-Por fim, foram realizadas algumas análises utilizando o Power BI como ferramenta de visualização para criação do dashboard.
+Por fim, foram realizadas algumas análises utilizando o Power BI como ferramenta de visualização para criação do dashboard. Você pode acessar o dashboard interativo clicando [aqui](https://app.powerbi.com/view?r=eyJrIjoiMGFiYzQ4MDgtNjc3MC00N2I0LTkwNDgtYzU1NDhkNmFlNzY3IiwidCI6ImFiOGFiMGMyLTQ4ZTYtNDQ4Yy04YWJkLTk1MWViYzgxYjk0NCJ9)
 
-<iframe title="PROJETO PAINEL COMERCIAL" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMGFiYzQ4MDgtNjc3MC00N2I0LTkwNDgtYzU1NDhkNmFlNzY3IiwidCI6ImFiOGFiMGMyLTQ4ZTYtNDQ4Yy04YWJkLTk1MWViYzgxYjk0NCJ9" frameborder="0" allowFullScreen="true"></iframe>
+![dashboard](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/dashboard.png)
+
 
 
