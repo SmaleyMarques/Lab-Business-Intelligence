@@ -38,8 +38,7 @@ Os dados são fictícios, criados manualmente e com revisões e ajustes para a c
 ![JOBs_DIM](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/JOBs_DIM.png)
 
 ### **Jobs de Carga das Tabelas Fato**
-![JOBs_FATO](https://github.com/SmaleyMarques/Lab-Business-Intelligence/
-blob/main/misc/JOBs_FATO.png)
+![JOBs_FATO](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/JOBs_FATO.png)
 
 ### **Jobs de Organização Geral**
 ![JOB_GERAL](https://github.com/SmaleyMarques/Lab-Business-Intelligence/blob/main/misc/JOB_GERAL.png)
