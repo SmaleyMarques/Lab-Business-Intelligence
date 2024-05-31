@@ -9,8 +9,6 @@ Projeto de Laboratório de BI desenvolvido utilizando o Microsoft SQL Server com
 Todo o projeto, incluindo modelagem, códigos e scripts, está disponível no repositório, proporcionando acesso completo e detalhado. O DDL do data warehouse e os artefatos de ETL estão documentados para facilitar a compreensão e colaboração.
 
 ## **Descrição do Case**
-
-
 Uma loja de artigos esportivos e suprimentos voltados para ciclismo deseja analisar seus dados de vendas. A loja possui um sistema ERP que armazena os dados em um banco de dados OLTP no MS SQL Server. Para a análise dos dados, foi criado um banco de dados OLAP, também no MS SQL Server, através de um processo ETL realizado com o Talend. Nesse processo, foram desenvolvidos jobs para extrair do banco de dados OLTP para o OLAP as tabelas de staging, que apoiam o processo de ETL, além das tabelas de dimensões e tabelas de fatos necessárias para a análise dos dados. Esses jobs são agendados para serem executados diariamente, garantindo que o banco de dados OLAP esteja sempre atualizado. Esse dataset é importado e consumido no Power BI, onde as tabelas foram devidamente relacionadas para a criação de medidas e visuais em um dashboard intuitivo e interativo.
 
 ## **Sobre os Dados Armazenados**
